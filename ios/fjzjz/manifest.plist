@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://59.56.174.55:8065/SG_ERP_FJZJ/moa-service/Ipa/erpmoa1.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://wangscode.gitee.io/erpmoa/ios/fjzjz/57x57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://wangscode.gitee.io/erpmoa/ios/fjzjz/512x512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.fjschzjz.erp</string>
+				<key>bundle-version</key>
+				<string>1.0.6</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>福建省质检站移动行政办公系统</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
